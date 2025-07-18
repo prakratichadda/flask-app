@@ -1,0 +1,11 @@
+Flask
+Flask-Cors
+pandas
+numpy
+scikit-learn
+plotly
+matplotlib
+seaborn
+tensorflow
+keras
+scipy
